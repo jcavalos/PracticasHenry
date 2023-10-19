@@ -1,2 +1,2 @@
-# PracticasHenry
-Repositorio de prueba para funciones Henry
+Juan carlos Avalos 
+Practicar funciones 
